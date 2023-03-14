@@ -1,0 +1,32 @@
+.time{
+
+    background-image: url("C:\\Definitivo_Desafio_CNP\\Output_MYSQL\\bg.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 20px 0px;
+
+}
+
+#cen {
+    display: flex;
+    justify-content: center;
+
+}
+
+.nome{
+    color: #003366;
+    border-bottom: solid 1px #003366;
+    padding-bottom: 5px;
+    margin-top: 30px;
+}
+
+.text-center{
+    color: #003366;
+    padding-bottom: 5px;
+    margin-top: 30px;
+    font-size: 60px;
+    background-image: url("C:\\Definitivo_Desafio_CNP\\Output_MYSQL\\bg.jpg");
+   
+   
+}
